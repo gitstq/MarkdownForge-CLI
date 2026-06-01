@@ -1,0 +1,4 @@
+# MarkdownForge-CLI
+# 轻量级终端Markdown文档智能生成与优化引擎
+# 零依赖 - 纯Python标准库实现
+# 无需安装任何第三方依赖包
